@@ -5,45 +5,54 @@ import { FaFacebookF, FaTwitter, FaWhatsapp } from "react-icons/fa";
 
 const doctors = [
   {
-    name: "Dr. Satish Kumar",
-    role: "Chief Clinical Cardiologist & Chairman",
-    img: "https://i.ibb.co/CpfC6wWj/image-place.png",
+    "name": "Dr. Renuka Verma",
+    "specialization": "Cardiologist & General Physician",
+    "status": "online",
+    "img": "https://i.ibb.co/CpfC6wWj/image-place.png"
   },
   {
-    name: "Dr. Rahul Kumar",
-    role: "Consultant Interventional Cardiologist",
-    img: "https://i.ibb.co/CpfC6wWj/image-place.png",
+    "name": "Dr. Madam Prakash",
+    "specialization": "MD Medicine",
+    "status": "online",
+    "img": "https://i.ibb.co/CpfC6wWj/image-place.png"
   },
   {
-    name: "Dr. Sujit Pandey",
-    role: "Chief Consultant General & Laparoscopic Surgery",
-    img: "https://i.ibb.co/CpfC6wWj/image-place.png",
+    "name": "Dr. Nirmal Kumar",
+    "specialization": "General Surgeon (MBBS, MS)",
+    "status": "away",
+    "img": "https://i.ibb.co/CpfC6wWj/image-place.png"
   },
   {
-    name: "Dr. R. N. Pradhan",
-    role: "Consultant Physician",
-    img: "https://i.ibb.co/CpfC6wWj/image-place.png",
+    "name": "Dr. Subhra Verma",
+    "specialization": "Obstetric & Gynaecologist (MBBS, DGO)",
+    "status": "online",
+    "img": "https://i.ibb.co/CpfC6wWj/image-place.png"
   },
   {
-    name: "Dr. Mukeshkumar Rajak",
-    role: "Chief Consultant Nephrology and Dialysis Unit",
-    img: "https://i.ibb.co/CpfC6wWj/image-place.png",
+    "name": "Dr. Shivani Das",
+    "specialization": "Obstetric & Gynaecologist (MBBS, DGO)",
+    "status": "offline",
+    "img": "https://i.ibb.co/CpfC6wWj/image-place.png"
   },
   {
-    name: "Dr. R. N. Sinha",
-    role: "Consultant Physician",
-    img: "https://i.ibb.co/CpfC6wWj/image-place.png",
+    "name": "Dr. Anurag Srivastava",
+    "specialization": "Anaesthetic (MBBS, DA)",
+    "status": "online",
+    "img": "https://i.ibb.co/CpfC6wWj/image-place.png"
   },
   {
-    name: "Dr. Prashant Kumar",
-    role: "Physician and Consultant Psychiatrist",
-    img: "https://i.ibb.co/CpfC6wWj/image-place.png",
+    "name": "Dr. Shashi Ranjan",
+    "specialization": "Neuro Physician & Mental Disorders Specialist",
+    "status": "away",
+    "img": "https://i.ibb.co/CpfC6wWj/image-place.png"
   },
   {
-    name: "Dr. Anurag Agrawal",
-    role: "Radiologist & Sonologist",
-    img: "https://i.ibb.co/CpfC6wWj/image-place.png",
+    "name": "Dr. P. K. Shankar",
+    "specialization": "General Surgeon & Laparoscopy (MBBS, MS)",
+    "status": "online",
+    "img": "https://i.ibb.co/CpfC6wWj/image-place.png"
   },
+
 ];
 
 export default function DoctorsPage() {

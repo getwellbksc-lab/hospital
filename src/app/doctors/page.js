@@ -3,118 +3,68 @@ import Navbar from "../components/Navbar";
 import Footer from "../components/Footer";
 
 const doctors = [
-
     {
-        "name": "Dr. Satish Kumar",
-        "specialization": "Chief Clinical Cardiologist & Chairman",
+        "name": "Dr. Renuka Verma",
+        "specialization": "Cardiologist & General Physician",
         "status": "online",
         "img": "https://i.ibb.co/CpfC6wWj/image-place.png"
     },
     {
-        "name": "Dr. Rahul Kumar",
-        "specialization": "Consultant Interventional Cardiologist",
+        "name": "Dr. Madam Prakash",
+        "specialization": "MD Medicine",
         "status": "online",
         "img": "https://i.ibb.co/CpfC6wWj/image-place.png"
     },
     {
-        "name": "Dr. Sujit Pandey",
-        "specialization": "Chief Consultant General & Laparoscopic Surgery",
+        "name": "Dr. Nirmal Kumar",
+        "specialization": "General Surgeon (MBBS, MS)",
         "status": "away",
         "img": "https://i.ibb.co/CpfC6wWj/image-place.png"
     },
     {
-        "name": "Dr. R. N. Pradhan",
-        "specialization": "Consultant Physician",
+        "name": "Dr. Subhra Verma",
+        "specialization": "Obstetric & Gynaecologist (MBBS, DGO)",
+        "status": "online",
+        "img": "https://i.ibb.co/CpfC6wWj/image-place.png"
+    },
+    {
+        "name": "Dr. Shivani Das",
+        "specialization": "Obstetric & Gynaecologist (MBBS, DGO)",
         "status": "offline",
         "img": "https://i.ibb.co/CpfC6wWj/image-place.png"
     },
     {
-        "name": "Dr. Mukeshkumar Rajak",
-        "specialization": "Chief Consultant Nephrology and Dialysis Unit",
+        "name": "Dr. Anurag Srivastava",
+        "specialization": "Anaesthetic (MBBS, DA)",
         "status": "online",
         "img": "https://i.ibb.co/CpfC6wWj/image-place.png"
     },
     {
-        "name": "Dr. R. N. Sinha",
-        "specialization": "Consultant Physician",
+        "name": "Dr. Shashi Ranjan",
+        "specialization": "Neuro Physician & Mental Disorders Specialist",
         "status": "away",
         "img": "https://i.ibb.co/CpfC6wWj/image-place.png"
     },
     {
-        "name": "Dr. Prashant Kumar",
-        "specialization": "Physician and Consultant Psychiatrist",
+        "name": "Dr. P. K. Shankar",
+        "specialization": "General Surgeon & Laparoscopy (MBBS, MS)",
+        "status": "online",
+        "img": "https://i.ibb.co/CpfC6wWj/image-place.png"
+    },
+    {
+        "name": "Dr. P. S. Singh",
+        "specialization": "General Physician (MBBS)",
         "status": "offline",
         "img": "https://i.ibb.co/CpfC6wWj/image-place.png"
     },
     {
-        "name": "Dr. Anurag Agrawal",
-        "specialization": "Radiologist & Sonologist",
+        "name": "Dr. M. D. Mustaq",
+        "specialization": "Neonatal & Pediatrician (MBBS, DNB)",
         "status": "online",
-        "img": "https://i.ibb.co/CpfC6wWj/image-place.png"
-    },
-    {
-        "name": "Dr. Vaibhav M. Mathur",
-        "specialization": "Orthopaedic Surgeon & Traumatologist (Specialist in Arthroscopy & Arthroplasty)",
-        "status": "online",
-        "img": "https://i.ibb.co/CpfC6wWj/image-place.png"
-    },
-    {
-        "name": "Dr. Pankaj Sharma",
-        "specialization": "Cancer Specialist",
-        "status": "away",
-        "img": "https://i.ibb.co/CpfC6wWj/image-place.png"
-    },
-    {
-        "name": "Dr. ShiveshKant Pandey",
-        "specialization": "Consultant Intensivist and Anaesthesiologist",
-        "status": "online",
-        "img": "https://i.ibb.co/CpfC6wWj/image-place.png"
-    },
-    {
-        "name": "Dr. Varuna Jha",
-        "specialization": "Consultant Obstetrics & Gynaecologist",
-        "status": "online",
-        "img": "https://i.ibb.co/CpfC6wWj/image-place.png"
-    },
-    {
-        "name": "Dr. Amrita Kumari",
-        "specialization": "Consultant Obstetrics & Gynaecologist",
-        "status": "away",
-        "img": "https://i.ibb.co/CpfC6wWj/image-place.png"
-    },
-    {
-        "name": "Dr. Shubhra Verma",
-        "specialization": "Consultant Obstetrics & Gynaecologist",
-        "status": "offline",
-        "img": "https://i.ibb.co/CpfC6wWj/image-place.png"
-    },
-    {
-        "name": "Dr. Pranjoo Bhushan",
-        "specialization": "Paediatrician & Neonatologist",
-        "status": "online",
-        "img": "https://i.ibb.co/CpfC6wWj/image-place.png"
-    },
-    {
-        "name": "Dr. Swaropam Gupta",
-        "specialization": "Consultant Laparoscopic & Gynaecologic Surgeon",
-        "status": "online",
-        "img": "https://i.ibb.co/CpfC6wWj/image-place.png"
-    },
-    {
-        "name": "Dr. S. D. Pandey",
-        "specialization": "Cardiologist, MD (PGI Chandigarh)",
-        "status": "away",
-        "img": "https://i.ibb.co/CpfC6wWj/image-place.png"
-    },
-    {
-        "name": "Dr. R. N. Komodkar",
-        "specialization": "Cardiologist, MD",
-        "status": "offline",
         "img": "https://i.ibb.co/CpfC6wWj/image-place.png"
     }
-
-
 ];
+
 
 const statusColors = {
     online: "text-green-600 bg-green-100",
