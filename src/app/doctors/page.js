@@ -8,109 +8,109 @@ const doctors = [
         "name": "Dr. Satish Kumar",
         "specialization": "Chief Clinical Cardiologist & Chairman",
         "status": "online",
-        "img": "https://i.ibb.co/8Dvfjr2r/drsatish.png"
+        "img": "https://i.ibb.co/CpfC6wWj/image-place.png"
     },
     {
         "name": "Dr. Rahul Kumar",
         "specialization": "Consultant Interventional Cardiologist",
         "status": "online",
-        "img": "https://i.ibb.co/MxpXX923/drrahul.png"
+        "img": "https://i.ibb.co/CpfC6wWj/image-place.png"
     },
     {
         "name": "Dr. Sujit Pandey",
         "specialization": "Chief Consultant General & Laparoscopic Surgery",
         "status": "away",
-        "img": "https://i.ibb.co/Mkj0WjmN/drsujit.png"
+        "img": "https://i.ibb.co/CpfC6wWj/image-place.png"
     },
     {
         "name": "Dr. R. N. Pradhan",
         "specialization": "Consultant Physician",
         "status": "offline",
-        "img": "https://i.ibb.co/Wpxv24g2/drpradhan.png"
+        "img": "https://i.ibb.co/CpfC6wWj/image-place.png"
     },
     {
         "name": "Dr. Mukeshkumar Rajak",
         "specialization": "Chief Consultant Nephrology and Dialysis Unit",
         "status": "online",
-        "img": "https://i.ibb.co/7tnmmP5C/drrajak.png"
+        "img": "https://i.ibb.co/CpfC6wWj/image-place.png"
     },
     {
         "name": "Dr. R. N. Sinha",
         "specialization": "Consultant Physician",
         "status": "away",
-        "img": "https://i.ibb.co/WvqnNqKn/drbnsinha.png"
+        "img": "https://i.ibb.co/CpfC6wWj/image-place.png"
     },
     {
         "name": "Dr. Prashant Kumar",
         "specialization": "Physician and Consultant Psychiatrist",
         "status": "offline",
-        "img": "https://i.ibb.co/fzTX2qTj/drprabhat.png"
+        "img": "https://i.ibb.co/CpfC6wWj/image-place.png"
     },
     {
         "name": "Dr. Anurag Agrawal",
         "specialization": "Radiologist & Sonologist",
         "status": "online",
-        "img": "https://i.ibb.co/jPQyVyb8/dranuragag.png"
+        "img": "https://i.ibb.co/CpfC6wWj/image-place.png"
     },
     {
         "name": "Dr. Vaibhav M. Mathur",
         "specialization": "Orthopaedic Surgeon & Traumatologist (Specialist in Arthroscopy & Arthroplasty)",
         "status": "online",
-        "img": "https://i.ibb.co/SXCv2bnL/drvishal.png"
+        "img": "https://i.ibb.co/CpfC6wWj/image-place.png"
     },
     {
         "name": "Dr. Pankaj Sharma",
         "specialization": "Cancer Specialist",
         "status": "away",
-        "img": "https://i.ibb.co/0jT9sFMj/drpsharma.png"
+        "img": "https://i.ibb.co/CpfC6wWj/image-place.png"
     },
     {
         "name": "Dr. ShiveshKant Pandey",
         "specialization": "Consultant Intensivist and Anaesthesiologist",
         "status": "online",
-        "img": "https://i.ibb.co/zWqkQSyW/drshiv.png"
+        "img": "https://i.ibb.co/CpfC6wWj/image-place.png"
     },
     {
         "name": "Dr. Varuna Jha",
         "specialization": "Consultant Obstetrics & Gynaecologist",
         "status": "online",
-        "img": "https://i.ibb.co/ZzDySzyH/drvaruna.png"
+        "img": "https://i.ibb.co/CpfC6wWj/image-place.png"
     },
     {
         "name": "Dr. Amrita Kumari",
         "specialization": "Consultant Obstetrics & Gynaecologist",
         "status": "away",
-        "img": "https://i.ibb.co/gZCtnFWX/dramrita.png"
+        "img": "https://i.ibb.co/CpfC6wWj/image-place.png"
     },
     {
         "name": "Dr. Shubhra Verma",
         "specialization": "Consultant Obstetrics & Gynaecologist",
         "status": "offline",
-        "img": "https://i.ibb.co/84DrctyF/drshubhra.png"
+        "img": "https://i.ibb.co/CpfC6wWj/image-place.png"
     },
     {
         "name": "Dr. Pranjoo Bhushan",
         "specialization": "Paediatrician & Neonatologist",
         "status": "online",
-        "img": "https://i.ibb.co/mVZXFvbT/drpankaj.png"
+        "img": "https://i.ibb.co/CpfC6wWj/image-place.png"
     },
     {
         "name": "Dr. Swaropam Gupta",
         "specialization": "Consultant Laparoscopic & Gynaecologic Surgeon",
         "status": "online",
-        "img": "https://i.ibb.co/FbhP8pN1/drguha.png"
+        "img": "https://i.ibb.co/CpfC6wWj/image-place.png"
     },
     {
         "name": "Dr. S. D. Pandey",
         "specialization": "Cardiologist, MD (PGI Chandigarh)",
         "status": "away",
-        "img": "https://i.ibb.co/k2Kf5FJN/drspandey.png"
+        "img": "https://i.ibb.co/CpfC6wWj/image-place.png"
     },
     {
         "name": "Dr. R. N. Komodkar",
         "specialization": "Cardiologist, MD",
         "status": "offline",
-        "img": "https://i.ibb.co/pB3DcWbZ/drkarmakar.png"
+        "img": "https://i.ibb.co/CpfC6wWj/image-place.png"
     }
 
 

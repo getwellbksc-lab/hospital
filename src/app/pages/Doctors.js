@@ -7,42 +7,42 @@ const doctors = [
   {
     name: "Dr. Satish Kumar",
     role: "Chief Clinical Cardiologist & Chairman",
-    img: "https://i.ibb.co/8Dvfjr2r/drsatish.png",
+    img: "https://i.ibb.co/CpfC6wWj/image-place.png",
   },
   {
     name: "Dr. Rahul Kumar",
     role: "Consultant Interventional Cardiologist",
-    img: "https://i.ibb.co/MxpXX923/drrahul.png",
+    img: "https://i.ibb.co/CpfC6wWj/image-place.png",
   },
   {
     name: "Dr. Sujit Pandey",
     role: "Chief Consultant General & Laparoscopic Surgery",
-    img: "https://i.ibb.co/Mkj0WjmN/drsujit.png",
+    img: "https://i.ibb.co/CpfC6wWj/image-place.png",
   },
   {
     name: "Dr. R. N. Pradhan",
     role: "Consultant Physician",
-    img: "https://i.ibb.co/Wpxv24g2/drpradhan.png",
+    img: "https://i.ibb.co/CpfC6wWj/image-place.png",
   },
   {
     name: "Dr. Mukeshkumar Rajak",
     role: "Chief Consultant Nephrology and Dialysis Unit",
-    img: "https://i.ibb.co/7tnmmP5C/drrajak.png",
+    img: "https://i.ibb.co/CpfC6wWj/image-place.png",
   },
   {
     name: "Dr. R. N. Sinha",
     role: "Consultant Physician",
-    img: "https://i.ibb.co/WvqnNqKn/drbnsinha.png",
+    img: "https://i.ibb.co/CpfC6wWj/image-place.png",
   },
   {
     name: "Dr. Prashant Kumar",
     role: "Physician and Consultant Psychiatrist",
-    img: "https://i.ibb.co/fzTX2qTj/drprabhat.png",
+    img: "https://i.ibb.co/CpfC6wWj/image-place.png",
   },
   {
     name: "Dr. Anurag Agrawal",
     role: "Radiologist & Sonologist",
-    img: "https://i.ibb.co/jPQyVyb8/dranuragag.png",
+    img: "https://i.ibb.co/CpfC6wWj/image-place.png",
   },
 ];
 
