@@ -4,7 +4,7 @@ module.exports = {
   generateRobotsTxt: true,
   generateIndexSitemap: true,
   sitemapSize: 7000,
-  changefreq: "daily",
-  priority: 0.7,
+  outDir: "public", // ✅ THIS IS THE FIX
 };
+
 
